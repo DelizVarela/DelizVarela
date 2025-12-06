@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hola, soy Deliz Varela! 👋
+**Estudiante de Ingeniería de Sistemas | Desarrolladora Web Fullstack Trainee**
 
-<!--
-**DelizVarela/DelizVarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Desde Paraguay, me apasiona crear soluciones que resuelvan problemas reales. Tengo experiencia práctica freelance y una sólida base académica en Ingeniería.
 
-Here are some ideas to get you started:
+🛠 **Mi Stack Tecnológico:**
+*   **Backend:** Java (Learning), PHP (Laravel), Python.
+*   **Frontend:** HTML, CSS, JavaScript, Vue.js.
+*   **Base de Datos:** MySQL.
+*   **Herramientas:** Git, VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Actualmente trabajando en:**
+*   Migrando lógica de negocio a ecosistemas **Java**.
+*   Finalizando un Sistema de Gestión de Inventario integral.
+
+📫 **Contáctame:**
+[LinkedIn](https://linkedin.com/in/tu-url) | [Email](mailto:delizvarela7@gmail.com)
