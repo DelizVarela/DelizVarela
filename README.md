@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DelizVarela&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas de Deliz" />
+</div>
 ### Hola, soy Deliz Varela! 👋
 **Estudiante de Ingeniería de Sistemas | Desarrolladora Web Fullstack**
 
